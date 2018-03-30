@@ -1,2 +1,2 @@
 # labo
-labo
+labo de test
